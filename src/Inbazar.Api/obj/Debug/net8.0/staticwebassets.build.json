@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "khJL5GcaeMkUagg4mCM3st9ha64cU2Fp4MvaK8gRLM0=",
+  "Source": "Inbazar.Api",
+  "BasePath": "_content/Inbazar.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

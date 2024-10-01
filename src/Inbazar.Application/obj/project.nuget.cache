@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvPnLGLgHT/1PAy9dCPQxZUW7EYBaOXpwhbrZnGQz3FD6RlkjrdVYD70uFwx5TcWrgQs3k9y3Mff9Ix+LCyLBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Practise\\Inbazar\\src\\Inbazar.Application\\Inbazar.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xamidullo\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Xamidullo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Xamidullo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

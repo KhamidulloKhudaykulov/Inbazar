@@ -1,0 +1,15 @@
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.csproj.AssemblyReference.cache
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.AssemblyInfoInputs.cache
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.AssemblyInfo.cs
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.csproj.CoreCompileInputs.cache
+D:\Practise\Inbazar\src\Inbazar.Application\bin\Debug\net8.0\Inbazar.Application.deps.json
+D:\Practise\Inbazar\src\Inbazar.Application\bin\Debug\net8.0\Inbazar.Application.dll
+D:\Practise\Inbazar\src\Inbazar.Application\bin\Debug\net8.0\Inbazar.Application.pdb
+D:\Practise\Inbazar\src\Inbazar.Application\bin\Debug\net8.0\Inbazar.Domain.dll
+D:\Practise\Inbazar\src\Inbazar.Application\bin\Debug\net8.0\Inbazar.Domain.pdb
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.csproj.CopyComplete
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.dll
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\refint\Inbazar.Application.dll
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\Inbazar.Application.pdb
+D:\Practise\Inbazar\src\Inbazar.Application\obj\Debug\net8.0\ref\Inbazar.Application.dll

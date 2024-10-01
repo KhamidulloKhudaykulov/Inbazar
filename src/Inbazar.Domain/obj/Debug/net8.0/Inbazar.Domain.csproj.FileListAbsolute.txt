@@ -1,0 +1,12 @@
+D:\Practise\Inbazar\src\Inbazar.Domain\bin\Debug\net8.0\Inbazar.Domain.deps.json
+D:\Practise\Inbazar\src\Inbazar.Domain\bin\Debug\net8.0\Inbazar.Domain.dll
+D:\Practise\Inbazar\src\Inbazar.Domain\bin\Debug\net8.0\Inbazar.Domain.pdb
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.csproj.AssemblyReference.cache
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.AssemblyInfoInputs.cache
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.AssemblyInfo.cs
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.csproj.CoreCompileInputs.cache
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.dll
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\refint\Inbazar.Domain.dll
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\Inbazar.Domain.pdb
+D:\Practise\Inbazar\src\Inbazar.Domain\obj\Debug\net8.0\ref\Inbazar.Domain.dll

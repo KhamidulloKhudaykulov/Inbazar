@@ -1,0 +1,17 @@
+D:\Practise\Inbazar\src\Inbazar.Persistence\bin\Debug\net8.0\Inbazar.Persistence.deps.json
+D:\Practise\Inbazar\src\Inbazar.Persistence\bin\Debug\net8.0\Inbazar.Persistence.runtimeconfig.json
+D:\Practise\Inbazar\src\Inbazar.Persistence\bin\Debug\net8.0\Inbazar.Persistence.dll
+D:\Practise\Inbazar\src\Inbazar.Persistence\bin\Debug\net8.0\Inbazar.Persistence.pdb
+D:\Practise\Inbazar\src\Inbazar.Persistence\bin\Debug\net8.0\Inbazar.Domain.dll
+D:\Practise\Inbazar\src\Inbazar.Persistence\bin\Debug\net8.0\Inbazar.Domain.pdb
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.csproj.AssemblyReference.cache
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.AssemblyInfoInputs.cache
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.AssemblyInfo.cs
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.csproj.CoreCompileInputs.cache
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.csproj.CopyComplete
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.dll
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\refint\Inbazar.Persistence.dll
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.pdb
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\Inbazar.Persistence.genruntimeconfig.cache
+D:\Practise\Inbazar\src\Inbazar.Persistence\obj\Debug\net8.0\ref\Inbazar.Persistence.dll
